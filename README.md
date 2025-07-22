@@ -6,7 +6,8 @@ This project is a responsive and visually appealing **Login Form** built using *
 
 ## 📸 Preview
 
-![Login Preview](./screenshot.png) <!-- Replace with actual screenshot path -->
+<img width="1376" height="869" alt="image" src="https://github.com/user-attachments/assets/3d944114-75b1-43ad-bf24-1872e5aa5288" />
+
 
 ---
 
@@ -30,5 +31,4 @@ This project is a responsive and visually appealing **Login Form** built using *
 - Google Fonts (Poppins)
 
 ---
-<img width="1376" height="869" alt="image" src="https://github.com/user-attachments/assets/434667bc-7fe6-474d-b5ba-721e0041dff6" />
 
