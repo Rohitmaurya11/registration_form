@@ -14,7 +14,6 @@ This project is a responsive and visually appealing **Login Form** built using *
 
 - 🎨 Stylish glassmorphism design
 - ✅ Responsive layout
-- 🔒 "Remember Me" feature using `localStorage`
 - 📧 Email & password fields with floating labels
 - 🧠 Password visibility toggle (optional to add)
 - ⚙️ Ionicons for modern icons
@@ -31,5 +30,5 @@ This project is a responsive and visually appealing **Login Form** built using *
 - Google Fonts (Poppins)
 
 ---
+<img width="1376" height="869" alt="image" src="https://github.com/user-attachments/assets/434667bc-7fe6-474d-b5ba-721e0041dff6" />
 
-## 📂 File Structure
